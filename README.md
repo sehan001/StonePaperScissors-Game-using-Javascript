@@ -1,3 +1,4 @@
 # StonePaperScissors-Game-using-Javascript
  
-Simp
+Simple game using the html css and javascript
+
